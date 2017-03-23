@@ -1,0 +1,17 @@
+# ATM
+----
+
+This app uses  - Java 8 and above 
+				- maven version 3.0+
+				
+
+To run this app on a windows, double click on Run.bat file in the project root folder.
+
+NB: Make sure you have java installed and configured as an environment variable
+
+Alternatively, run the app on cmd or bash using:
+
+java -jar location_of_jar_file
+
+
+location_of_jar_file in this case is ./ATM/ATM.jar
